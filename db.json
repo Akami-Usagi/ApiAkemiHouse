@@ -2,7 +2,8 @@
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" },
     { "id": 2, "title": "test post", "author": "akami" },
-    { "id": 3, "title": "Akemi Linda", "author": "Hola akemi preciosa, te amoro montones cosita bella" }
+    { "id": 3, "title": "Akemi Linda", "author": "Hola akemi preciosa, te amoro montones cosita bella" },
+    { "id": 4, "title": "Conejita preciosa", "author": "Te amoro ejeputis" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
