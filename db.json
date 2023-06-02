@@ -21,15 +21,13 @@
     "imgc": "https://i.imgur.com/iiGcsHb.png"
     }
     
-    
-
-
-
-
-
   ],
   "videos": [
-    { "id": 1, "title": "video description", "url": "videourl" }
-  ],
-  "profile": { "name": "typicode" }
+    { "id": 1, 
+    "title": "video description", 
+    "descrip": "descripcion del video",
+    "url": "https://www.youtube.com/embed/QH2-TGUlwu4"
+    }
+  ]
+  
 }
