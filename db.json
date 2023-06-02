@@ -26,7 +26,7 @@
     { "id": 1, 
     "title": "video description", 
     "descrip": "descripcion del video",
-    "url": "https://www.youtube.com/embed/QH2-TGUlwu4"
+    "vcode": "QH2-TGUlwu4"
     }
   ]
   
