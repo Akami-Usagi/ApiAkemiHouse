@@ -23,10 +23,30 @@
     
   ],
   "videos": [
+    { "id": 5, 
+    "title": "Escenario Político en Guadalajara de Buga según el Licenciado John Harold Suárez Vargas", 
+    "descrip": "Tras referir cómo enfocará en adelante su propuesta de gobierno que ya ha ido construyendo con algunas ideas presentadas a la comunidad, el licenciado Jhon Harold Suárez Vargas, quien oficializó recientemente su aspiración a la Alcaldía de Guadalajara de Buga, hizo un llamado al actual Concejo Municipal y al Secretario de Hacienda y Alcalde de la ciudad, previendo el tema catastral contemplado en el Plan Nacional de Desarrollo.",
+    "vcode": "VKkvi8icusE"
+    },
+    { "id": 4, 
+    "title": "El agua es un derecho fundamental", 
+    "descrip": "Para evitar cortes en épocas de lluvia y verano, se deben plantear soluciones concretas. Proponer proyectos urbanísticos de gran escala implica pensar en todos los aspectos",
+    "vcode": "CKiYdmGQDa8"
+    },
+    { "id": 3, 
+    "title": "Parque Temático El Mirador de los Milagros", 
+    "descrip": "Un proyecto que beneficiará a la ciudad, produciendo una interacción entre deporte, naturaleza, cultura, religión, turismo, gastronomía, emprendimiento y artesanía. Todo el que nos visite querrá subir y conocer",
+    "vcode": "cIbZqwsL6ic"
+    },
+    { "id": 2, 
+    "title": "Detrás de mi figura política, hay un ser humano atento, espiritual y trabajador", 
+    "descrip": "Te invito a que me conozcas un poco más. Nuestras obras por Buga y mi calidad humana hablan por sí solas",
+    "vcode": "rNKm5mSpiuE"
+    },
     { "id": 1, 
-    "title": "video description", 
-    "descrip": "descripcion del video",
-    "vcode": "QH2-TGUlwu4"
+    "title": "Nodo de Expansión del Occidente de Buga", 
+    "descrip": "Para volver a ser ciudad, necesitamos proyectos visionarios. Nosotros ya demostramos que podemos hacerlo",
+    "vcode": "7qM2z7kp0zA"
     }
   ]
   
