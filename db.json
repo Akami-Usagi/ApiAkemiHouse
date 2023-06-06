@@ -1,7 +1,7 @@
 {
   "posts": [
     { 
-    "id": 2, 
+    "id": 10, 
     "title": "BUGA, PARA VOLVER A SER CIUDAD", 
     "texta": "Que tan fácil se retrocede en la vida tras una mala decisión de un momento determinado, en una coyuntura.Construir un proceso en lo educativo, la infraestructura, el desarrollo, amerita muchas acciones.",
     "textb": "Vemos cómo los esfuerzos de equipos de trabajo, de empleados, de obreros, noches de intenso trabajo de tantos que ayudaron a que esta ciudad fuera próspera, se han opacado y hoy, Buga es un territorio en decadencia, enruta al abismo, pero, además hubo algo que los bugueños perdieron: la motivación.",
@@ -9,6 +9,26 @@
     "imga": "https://i.imgur.com/avrXVAg.png",
     "imgb": "https://i.imgur.com/Z8Ea8lA.png",
     "imgc": "https://i.imgur.com/ijjJe5d.png"
+    },
+    { 
+    "id": 3, 
+    "title": "VIVIENDA, UNA NECESIDAD BÁSICA", 
+    "texta": "Estabilidad y seguridad para las familias bugueñas al conseguir su casa propia, con el desarrollo de:",
+    "textb": "Construcción de los barrios: San José Obrero, Balcones del Norte etapas I-II-III-IV, Gestión para la entrega de más de 750 viviendas gratis en Uninorte",
+    "textc": "•Titulación de más de 800 predios barrio Altobonito, Priorización en vivienda a madres cabeza de familia, Mejoramiento de vivienda a madres comunitarias",
+    "imga": "https://i.imgur.com/ga7DVzn.png",
+    "imgb": "https://i.imgur.com/CjkZYXb.png",
+    "imgc": "https://i.imgur.com/HDICVqU.png"
+    },
+    { 
+    "id": 2, 
+    "title": "ATENCIÓN DE CALIDAD EN TODOS LOS SECTORES", 
+    "texta": "Acercar los servicios de salud a la comunidad bugueña es una de las acciones que logró al fortalecer la infraestructura de la Empresa Social del Estado Divino Niño, ubicada en el norte de la ciudad, y para ello se hizo:",
+    "textb": "Construcción área administrativa, servicio de odontología, Centro de Rehabilitación de enfermedades crónicas no transmisibles, Ampliación del área de urgencias, Sala de lectura de Primera Infancia del Hospital Divino Niño. Dotación con ambulancias para la zona rural oriental.",
+    "textc": "También, otros sectores fueron beneficiados con: Construcción del Centro de Salud Luis Eduardo Domínguez. Puestos de salud Zona rural en: El Placer y Monterrey Zona urbana en: Paloblanco y Santa Bárbara",
+    "imga": "https://i.imgur.com/RiOU7Oa.png",
+    "imgb": "https://i.imgur.com/qhikUzY.png",
+    "imgc": "https://i.imgur.com/TwSoZ3x.png"
     },
     { 
     "id": 1, 
