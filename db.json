@@ -86,6 +86,11 @@
     }
   ],
   "propuestas": [
+    { "id": 5, 
+    "title": "Centro de Acondicionamiento Físico y Rehabilitación Deportiva", 
+    "descrip": "Queremos que los deportistas y la comunidad en general de nuestra ciudad se vean beneficiados recibiendo la mejor atención en materia de acondicionamiento y rehabilitación física",
+    "vcode": "TnAi6M5w7gI"
+    },
     { "id": 4, 
     "title": "Una sociedad que muestra respeto por los animales", 
     "descrip": "Es también un indicador  de desarrollo y progreso. Velar por los que no tienen voz nos hace más humanos",
