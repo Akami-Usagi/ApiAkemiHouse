@@ -73,7 +73,11 @@
     
   ],
   "videos": [
-    
+    { "id": 3, 
+    "title": "Mi experiencia al servicio de la Ciudad", 
+    "descrip": "Con mi liderazgo, podemos devolverle la gloria a nuestra ciudad señora, tengo la experiencia y la voluntad para hacer los cambios que nuestra ciudad necesita",
+    "vcode": "5V_rwTKcT0o"
+    },
     { "id": 2, 
     "title": "Escenario Político en Guadalajara de Buga según el Licenciado John Harold Suárez Vargas", 
     "descrip": "Tras referir cómo enfocará en adelante su propuesta de gobierno que ya ha ido construyendo con algunas ideas presentadas a la comunidad, el licenciado Jhon Harold Suárez Vargas, quien oficializó recientemente su aspiración a la Alcaldía de Guadalajara de Buga, hizo un llamado al actual Concejo Municipal y al Secretario de Hacienda y Alcalde de la ciudad, previendo el tema catastral contemplado en el Plan Nacional de Desarrollo.",
