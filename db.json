@@ -86,6 +86,11 @@
     }
   ],
   "propuestas": [
+    { "id": 6, 
+    "title": "Ley de la batalla de San Juanito y el reconocimiento a la mujer Vallecaucana", 
+    "descrip": "Reconocimiento especial a Maria Antonia Ruiz. esta ley nos permitirá crear un monumento en honor a la Batalla de san Juanito ocurrida en 1819",
+    "vcode": "ne-1ZkjNZO0"
+    },
     { "id": 5, 
     "title": "Centro de Acondicionamiento Físico y Rehabilitación Deportiva", 
     "descrip": "Queremos que los deportistas y la comunidad en general de nuestra ciudad se vean beneficiados recibiendo la mejor atención en materia de acondicionamiento y rehabilitación física",
