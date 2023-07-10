@@ -95,6 +95,11 @@
     }
   ],
   "propuestas": [
+    { "id": 8, 
+    "title": "Malecón de las Aves del Rio Cauca", 
+    "descrip": "Tenemos una gran posibilidad de aprovechar y de disfrutar todo lo que será el Malecón del Rio de la Aves, mas de 520 especies de aves.",
+    "vcode": "PLBMR2Dboc8"
+    },
     { "id": 7, 
     "title": "La cultura y el arte, los pilares fundamentales de una ciudad prospera", 
     "descrip": "en nuestra ciudad debe nacer el Instituto Municipal del Arte y la Cultura, con el cual queremos profesionalizar a nuestros artistas a través de procesos técnicos y tecnológicos en el Arte y la Cultura",
