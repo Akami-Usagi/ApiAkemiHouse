@@ -95,6 +95,11 @@
     }
   ],
   "propuestas": [
+    { "id": 9, 
+    "title": "¡Bienvenidos al Pueblito Bugueño!", 
+    "descrip": "Donde la magia de nuestra cultura y nuestras tradiciones se fusiona con las demás atracciones del Parque Temático Mirador de los Milagros",
+    "vcode": "dT6N0Xl9RE8"
+    },
     { "id": 8, 
     "title": "Malecón de las Aves del Rio Cauca", 
     "descrip": "Tenemos una gran posibilidad de aprovechar y de disfrutar todo lo que será el Malecón del Rio de la Aves, mas de 520 especies de aves.",
