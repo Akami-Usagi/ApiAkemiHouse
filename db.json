@@ -95,6 +95,11 @@
     }
   ],
   "propuestas": [
+    { "id": 10, 
+    "title": "El futuro de la seguridad en Buga está en la tecnología", 
+    "descrip": "Con reconocimiento facial y drones vigilantes protegeremos cada rincón de nuestra ciudad.",
+    "vcode": "hI6o1OQG6_E"
+    },
     { "id": 9, 
     "title": "¡Bienvenidos al Pueblito Bugueño!", 
     "descrip": "Donde la magia de nuestra cultura y nuestras tradiciones se fusiona con las demás atracciones del Parque Temático Mirador de los Milagros",
