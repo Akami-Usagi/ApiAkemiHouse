@@ -95,6 +95,11 @@
     }
   ],
   "propuestas": [
+    { "id": 11, 
+    "title": "Tecnoparque de Buga", 
+    "descrip": "Unirá innovación, educación, tecnología y generación de empleo. ¡Esta es una inversión que debemos hacer!",
+    "vcode": "314WmuS_mtQ"
+    },
     { "id": 10, 
     "title": "El futuro de la seguridad en Buga está en la tecnología", 
     "descrip": "Con reconocimiento facial y drones vigilantes protegeremos cada rincón de nuestra ciudad.",
