@@ -1,66 +1,6 @@
 {
   "posts": [
     { 
-    "id": 10, 
-    "title": "BUGA, PARA VOLVER A SER CIUDAD", 
-    "texta": "Que tan fácil se retrocede en la vida tras una mala decisión de un momento determinado, en una coyuntura.Construir un proceso en lo educativo, la infraestructura, el desarrollo, amerita muchas acciones.",
-    "textb": "Vemos cómo los esfuerzos de equipos de trabajo, de empleados, de obreros, noches de intenso trabajo de tantos que ayudaron a que esta ciudad fuera próspera, se han opacado y hoy, Buga es un territorio en decadencia, enruta al abismo, pero, además hubo algo que los bugueños perdieron: la motivación.",
-    "textc": "Ahora lo primero que debemos hacer es recuperarla, levantar el ánimo y salir de esta mala hora que terminará el 31 de diciembre de este año, si elegimos el camino correcto, porque está prohibido volver a improvisar.",
-    "imga": "https://i.imgur.com/avrXVAg.png",
-    "imgb": "https://i.imgur.com/gyAZ8Au.png",
-    "imgc": "https://i.imgur.com/Z8Ea8lA.png"
-    },
-    { 
-    "id": 6, 
-    "title": "MEDIO AMBIENTE", 
-    "texta": "Protección y conservación de los recursos naturales, como el agua, tierras y otros se realizó con la siembra de más de 13 mil árboles para reforestación en la zona de reserva del río Guadalajara, compra de 1.000 hectáreas en zona rural alta donde están los nacimientos de agua y el programa Guardianes del Agua para conservary proteger de la deforestación la cuenca del río.",
-    "textb": "Muros de protección del río Guadalajara en sectores: parque Bolívar, parque Biosaludable El Vergel, corregimiento La Habana yen los puentes Crucebar, Tres Esquinas, Negroy Abadía.",
-    "textc": "Al 80% de la población en zona rural se le garantizó agua potable con acueductos rurales en: Pueblo Nuevo, Chambimbal San Antonio, Chambimbal La Campiña, Zanjón Hondo, Pueblo Nuevo, El Vinculo, La Magdalena, La Habana, Alaska, Monterrey, La María, El Janeiroy Guadualejo.",
-    "imga": "https://i.imgur.com/RfwqVm7.png",
-    "imgb": "https://i.imgur.com/Lt825ao.png",
-    "imgc": "https://i.imgur.com/jjp9KWZ.png"
-    },
-    { 
-    "id": 5, 
-    "title": "DIVERSOS GRUPOS DE POBLACION SE BENEFICIARON CON PROGRAMAS SOCIALES", 
-    "texta": "Mujer: El programa del 'Vientre a Siempre' brindó apoyo médico y social a las madres lactantes y asistencia social integral a adolescentes en embarazo.",
-    "textb": "Adulto mayor: En la antigua Escuela Carlos Montufar fue adecuada para el funcionamiento de la Escuela de Artes y Oficios con capacitaciones a madres cabeza de familia en cerámica, muñequería y arte barroco, entre otros para impulsar el emprendimiento a través de un fondo de microcrédito.",
-    "textc": "Seguridad: Se fortaleció la seguridad al pasar de 3 a 14 cuadrantes de Policía, se creó el Observatorio de Seguridad y Convivencia Ciudadana, instalación de 60 cámaras y entrega de 80 vehículos para la fuerza pública, además del lote para la construcción del Comando Policia Valle.",
-    "imga": "https://i.imgur.com/IVVeAZw.png",
-    "imgb": "https://i.imgur.com/ljyJ4fa.png",
-    "imgc": "https://i.imgur.com/9K9M5H9.png"
-    },
-    { 
-    "id": 4, 
-    "title": "ESPACIOS URBANOS PARA LA CONSTRUCCIÓN DEL TEJIDO SOCIAL", 
-    "texta": "Bajo una mirada que integra práctica deportiva, actividad física, recreación, espacios pasivos, disfrute de la naturaleza, su conservación y protección, nacieron los parques Biosaludables, un equipamiento urbano que potencia y da valor a las zonas ribereñas del río Guadalajara y otros espacios verdes para el disfrute de la comunidad en todas sus edades.",
-    "textb": "Parque biosaludable El Vergel, Parque biosaludable Calle Cero, Coliseo del barrio Santa Bárbara, Coliseo Ciudadela Agrícola Guadalajara de Buga, Polideportivo del Norte con piscina semi olímpica y coliseo.",
-    "textc": "Polideportivos para el campo con iluminación en: La Magdalena, Chambimbal San Antonio, Chambimbal La Campiña, Zanjón Hondo, La María, Pueblo Nuevo, El Vínculo, El Manantial. Construcción de la pista de bikepark y la deskateboard. Cancha de microfútbol Cárcel Distrital.",
-    "imga": "https://i.imgur.com/XkSBJuf.png",
-    "imgb": "https://i.imgur.com/rmd2fdS.png",
-    "imgc": "https://i.imgur.com/4rkU4a6.png"
-    },
-    { 
-    "id": 3, 
-    "title": "VIVIENDA, UNA NECESIDAD BÁSICA", 
-    "texta": "Estabilidad y seguridad para las familias bugueñas al conseguir su casa propia, con el desarrollo de:",
-    "textb": "Construcción de los barrios: San José Obrero, Balcones del Norte etapas I-II-III-IV, Gestión para la entrega de más de 750 viviendas gratis en Uninorte",
-    "textc": "Titulación de más de 800 predios barrio Altobonito, Priorización en vivienda a madres cabeza de familia, Mejoramiento de vivienda a madres comunitarias",
-    "imga": "https://i.imgur.com/ga7DVzn.png",
-    "imgb": "https://i.imgur.com/CjkZYXb.png",
-    "imgc": "https://i.imgur.com/HDICVqU.png"
-    },
-    { 
-    "id": 2, 
-    "title": "ATENCIÓN DE CALIDAD EN TODOS LOS SECTORES", 
-    "texta": "Acercar los servicios de salud a la comunidad bugueña es una de las acciones que logró al fortalecer la infraestructura de la Empresa Social del Estado Divino Niño, ubicada en el norte de la ciudad, y para ello se hizo:",
-    "textb": "Construcción área administrativa, servicio de odontología, Centro de Rehabilitación de enfermedades crónicas no transmisibles, Ampliación del área de urgencias, Sala de lectura de Primera Infancia del Hospital Divino Niño. Dotación con ambulancias para la zona rural oriental.",
-    "textc": "También, otros sectores fueron beneficiados con: Construcción del Centro de Salud Luis Eduardo Domínguez. Puestos de salud Zona rural en: El Placer y Monterrey Zona urbana en: Paloblanco y Santa Bárbara",
-    "imga": "https://i.imgur.com/RiOU7Oa.png",
-    "imgb": "https://i.imgur.com/qhikUzY.png",
-    "imgc": "https://i.imgur.com/TwSoZ3x.png"
-    },
-    { 
     "id": 1, 
     "title": "ESPACIO PÚBLICO Y EDIFICACIONES RECUPERADAS PARA EL USO DE TODOS", 
     "texta": "Hacer de calles, andenes, parques, avenidas, edificios de interés cultural y patrimonial, lugares óptimos, es brindar espacios amables e incluyentes a los habitantes y a quienes visitan a Buga.", 
@@ -70,24 +10,8 @@
     "imgb": "https://i.imgur.com/0rhSU2X.png",
     "imgc": "https://i.imgur.com/EYr4qrZ.png"
     }
-    
   ],
   "videos": [
-    { "id": 4, 
-    "title": "Arcoíris de la Noche - 29 de junio de 2023", 
-    "descrip": "Noche de Color, Aire Fresco, Pensamiento Fluido. Hay Hablamos de la Importancia de las Alcaldías.",
-    "vcode": "fJTlm1e2n5A"
-    },
-    { "id": 3, 
-    "title": "Mi experiencia al servicio de la Ciudad", 
-    "descrip": "Con mi liderazgo, podemos devolverle la gloria a nuestra ciudad señora, tengo la experiencia y la voluntad para hacer los cambios que nuestra ciudad necesita",
-    "vcode": "5V_rwTKcT0o"
-    },
-    { "id": 2, 
-    "title": "Escenario Político en Guadalajara de Buga según el Licenciado John Harold Suárez Vargas", 
-    "descrip": "Tras referir cómo enfocará en adelante su propuesta de gobierno que ya ha ido construyendo con algunas ideas presentadas a la comunidad, el licenciado Jhon Harold Suárez Vargas, quien oficializó recientemente su aspiración a la Alcaldía de Guadalajara de Buga, hizo un llamado al actual Concejo Municipal y al Secretario de Hacienda y Alcalde de la ciudad, previendo el tema catastral contemplado en el Plan Nacional de Desarrollo.",
-    "vcode": "VKkvi8icusE"
-    },
     { "id": 1, 
     "title": "Detrás de mi figura política, hay un ser humano atento, espiritual y trabajador", 
     "descrip": "Te invito a que me conozcas un poco más. Nuestras obras por Buga y mi calidad humana hablan por sí solas",
@@ -95,56 +19,6 @@
     }
   ],
   "propuestas": [
-    { "id": 11, 
-    "title": "Tecnoparque de Buga", 
-    "descrip": "Unirá innovación, educación, tecnología y generación de empleo. ¡Esta es una inversión que debemos hacer!",
-    "vcode": "314WmuS_mtQ"
-    },
-    { "id": 10, 
-    "title": "El futuro de la seguridad en Buga está en la tecnología", 
-    "descrip": "Con reconocimiento facial y drones vigilantes protegeremos cada rincón de nuestra ciudad.",
-    "vcode": "hI6o1OQG6_E"
-    },
-    { "id": 9, 
-    "title": "¡Bienvenidos al Pueblito Bugueño!", 
-    "descrip": "Donde la magia de nuestra cultura y nuestras tradiciones se fusiona con las demás atracciones del Parque Temático Mirador de los Milagros",
-    "vcode": "dT6N0Xl9RE8"
-    },
-    { "id": 8, 
-    "title": "Malecón de las Aves del Rio Cauca", 
-    "descrip": "Tenemos una gran posibilidad de aprovechar y de disfrutar todo lo que será el Malecón del Rio de la Aves, mas de 520 especies de aves.",
-    "vcode": "PLBMR2Dboc8"
-    },
-    { "id": 7, 
-    "title": "La cultura y el arte, los pilares fundamentales de una ciudad prospera", 
-    "descrip": "en nuestra ciudad debe nacer el Instituto Municipal del Arte y la Cultura, con el cual queremos profesionalizar a nuestros artistas a través de procesos técnicos y tecnológicos en el Arte y la Cultura",
-    "vcode": "zkGvfFFmnvg"
-    },
-    { "id": 6, 
-    "title": "Ley de la batalla de San Juanito y el reconocimiento a la mujer Vallecaucana", 
-    "descrip": "Reconocimiento especial a Maria Antonia Ruiz. esta ley nos permitirá crear un monumento en honor a la Batalla de san Juanito ocurrida en 1819",
-    "vcode": "ne-1ZkjNZO0"
-    },
-    { "id": 5, 
-    "title": "Centro de Acondicionamiento Físico y Rehabilitación Deportiva", 
-    "descrip": "Queremos que los deportistas y la comunidad en general de nuestra ciudad se vean beneficiados recibiendo la mejor atención en materia de acondicionamiento y rehabilitación física",
-    "vcode": "TnAi6M5w7gI"
-    },
-    { "id": 4, 
-    "title": "Una sociedad que muestra respeto por los animales", 
-    "descrip": "Es también un indicador  de desarrollo y progreso. Velar por los que no tienen voz nos hace más humanos",
-    "vcode": "NJPt0qCVYgI"
-    },
-    { "id": 3, 
-    "title": "El agua es un derecho fundamental", 
-    "descrip": "Para evitar cortes en épocas de lluvia y verano, se deben plantear soluciones concretas. Proponer proyectos urbanísticos de gran escala implica pensar en todos los aspectos",
-    "vcode": "VLU_QdljOHU"
-    },
-    { "id": 2, 
-    "title": "Parque Temático El Mirador de los Milagros", 
-    "descrip": "Un proyecto que beneficiará a la ciudad, produciendo una interacción entre deporte, naturaleza, cultura, religión, turismo, gastronomía, emprendimiento y artesanía. Todo el que nos visite querrá subir y conocer",
-    "vcode": "RPU65ci7PN0"
-    },
     { "id": 1, 
     "title": "Nodo de Expansión del Occidente de Buga", 
     "descrip": "Para volver a ser ciudad, necesitamos proyectos visionarios. Nosotros ya demostramos que podemos hacerlo",
