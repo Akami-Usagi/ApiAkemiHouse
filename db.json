@@ -2,19 +2,55 @@
   "categorias": [
     { 
     "id": 1, 
-    "title": "Promociones", 
+    "title": "promociones", 
     "text": "Productos seleccionados con hasta el 30% de descuento!", 
     "img": "https://i.imgur.com/cO8Uhaa.jpg" 
+    },
+    { 
+    "id": 2, 
+    "title": "peluches", 
+    "text": "Los mas hermosos diseños para todos los gustos!", 
+    "img": "https://i.imgur.com/NlJTvyh.jpg" 
+    },
+    { 
+    "id": 3, 
+    "title": "arreglos", 
+    "text": "Demuestra tu amor con nuestros arreglos personalizados!", 
+    "img": "https://i.imgur.com/c0Nf77e.jpg" 
+    },
+    { 
+    "id": 4, 
+    "title": "desayunos", 
+    "text": "Nada como dar el buenos dias de la mejor manera posible!", 
+    "img": "https://i.imgur.com/b5ms9A8.jpg" 
     }
   ],
-  "videos": [
+
+  "promociones": [
     { "id": 1, 
     "title": "Detrás de mi figura política, hay un ser humano atento, espiritual y trabajador", 
     "descrip": "Te invito a que me conozcas un poco más. Nuestras obras por Buga y mi calidad humana hablan por sí solas",
     "vcode": "rNKm5mSpiuE"
     }
   ],
-  "propuestas": [
+
+  "peluches": [
+    { "id": 1, 
+    "title": "Nodo de Expansión del Occidente de Buga", 
+    "descrip": "Para volver a ser ciudad, necesitamos proyectos visionarios. Nosotros ya demostramos que podemos hacerlo",
+    "vcode": "D1CW6WPEsMY"
+    }
+  ],
+
+  "arreglos": [
+    { "id": 1, 
+    "title": "Nodo de Expansión del Occidente de Buga", 
+    "descrip": "Para volver a ser ciudad, necesitamos proyectos visionarios. Nosotros ya demostramos que podemos hacerlo",
+    "vcode": "D1CW6WPEsMY"
+    }
+  ],
+
+  "desayunos": [
     { "id": 1, 
     "title": "Nodo de Expansión del Occidente de Buga", 
     "descrip": "Para volver a ser ciudad, necesitamos proyectos visionarios. Nosotros ya demostramos que podemos hacerlo",
