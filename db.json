@@ -44,9 +44,40 @@
 
   "arreglos": [
     { "id": 1, 
-    "title": "Nodo de Expansión del Occidente de Buga", 
-    "descrip": "Para volver a ser ciudad, necesitamos proyectos visionarios. Nosotros ya demostramos que podemos hacerlo",
-    "vcode": "D1CW6WPEsMY"
+    "title": "Bouquete Panda con dulces", 
+    "descrip": "Oso panda, acompañado de dulces",
+    "price": "56000",
+    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    },
+    { "id": 2, 
+    "title": "Bouquete Panda con dulces", 
+    "descrip": "Oso panda, acompañado de dulces",
+    "price": "56000",
+    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    },
+    { "id": 3, 
+    "title": "Bouquete Panda con dulces", 
+    "descrip": "Oso panda, acompañado de dulces",
+    "price": "56000",
+    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    },
+    { "id": 4, 
+    "title": "Bouquete Panda con dulces", 
+    "descrip": "Oso panda, acompañado de dulces",
+    "price": "56000",
+    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    },
+    { "id": 5, 
+    "title": "Bouquete Panda con dulces", 
+    "descrip": "Oso panda, acompañado de dulces",
+    "price": "56000",
+    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    },
+    { "id": 6, 
+    "title": "Bouquete Panda con dulces", 
+    "descrip": "Oso panda, acompañado de dulces",
+    "price": "56000",
+    "picture": "https://i.imgur.com/NlJTvyh.jpg"
     }
   ],
 
