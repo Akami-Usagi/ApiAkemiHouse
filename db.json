@@ -28,17 +28,79 @@
 
   "promociones": [
     { "id": 1, 
-    "title": "Detrás de mi figura política, hay un ser humano atento, espiritual y trabajador", 
-    "descrip": "Te invito a que me conozcas un poco más. Nuestras obras por Buga y mi calidad humana hablan por sí solas",
-    "vcode": "rNKm5mSpiuE"
+    "title": "Articulo en promocion!", 
+    "descrip": "llevatelo con el 40% de descuento",
+    "price": "75000",
+    "picture": "https://i.imgur.com/cO8Uhaa.jpg"
+    },
+    { "id": 2, 
+    "title": "Articulo en promocion!", 
+    "descrip": "llevatelo con el 40% de descuento",
+    "price": "75000",
+    "picture": "https://i.imgur.com/cO8Uhaa.jpg"
+    },
+    { "id": 3, 
+    "title": "Articulo en promocion!", 
+    "descrip": "llevatelo con el 40% de descuento",
+    "price": "75000",
+    "picture": "https://i.imgur.com/cO8Uhaa.jpg"
+    },
+    { "id": 4, 
+    "title": "Articulo en promocion!", 
+    "descrip": "llevatelo con el 40% de descuento",
+    "price": "75000",
+    "picture": "https://i.imgur.com/cO8Uhaa.jpg"
+    },
+    { "id": 5, 
+    "title": "Articulo en promocion!", 
+    "descrip": "llevatelo con el 40% de descuento",
+    "price": "75000",
+    "picture": "https://i.imgur.com/cO8Uhaa.jpg"
+    },
+    { "id": 6, 
+    "title": "Articulo en promocion!", 
+    "descrip": "llevatelo con el 40% de descuento",
+    "price": "75000",
+    "picture": "https://i.imgur.com/cO8Uhaa.jpg"
     }
   ],
 
   "peluches": [
     { "id": 1, 
-    "title": "Nodo de Expansión del Occidente de Buga", 
-    "descrip": "Para volver a ser ciudad, necesitamos proyectos visionarios. Nosotros ya demostramos que podemos hacerlo",
-    "vcode": "D1CW6WPEsMY"
+    "title": "Peluche Charizard", 
+    "descrip": "45cm x 32cm, material hipoalergenico",
+    "price": "100000",
+    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    },
+    { "id": 2, 
+    "title": "Peluche Charizard", 
+    "descrip": "45cm x 32cm, material hipoalergenico",
+    "price": "100000",
+    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    },
+    { "id": 3, 
+    "title": "Peluche Charizard", 
+    "descrip": "45cm x 32cm, material hipoalergenico",
+    "price": "100000",
+    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    },
+    { "id": 4, 
+    "title": "Peluche Charizard", 
+    "descrip": "45cm x 32cm, material hipoalergenico",
+    "price": "100000",
+    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    },
+    { "id": 5, 
+    "title": "Peluche Charizard", 
+    "descrip": "45cm x 32cm, material hipoalergenico",
+    "price": "100000",
+    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    },
+    { "id": 6, 
+    "title": "Peluche Charizard", 
+    "descrip": "45cm x 32cm, material hipoalergenico",
+    "price": "100000",
+    "picture": "https://i.imgur.com/NlJTvyh.jpg"
     }
   ],
 
@@ -47,45 +109,76 @@
     "title": "Bouquete Panda con dulces", 
     "descrip": "Oso panda, acompañado de dulces",
     "price": "56000",
-    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    "picture": "https://i.imgur.com/c0Nf77e.jpg"
     },
     { "id": 2, 
     "title": "Bouquete Panda con dulces", 
     "descrip": "Oso panda, acompañado de dulces",
     "price": "56000",
-    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    "picture": "https://i.imgur.com/c0Nf77e.jpg"
     },
     { "id": 3, 
     "title": "Bouquete Panda con dulces", 
     "descrip": "Oso panda, acompañado de dulces",
     "price": "56000",
-    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    "picture": "https://i.imgur.com/c0Nf77e.jpg"
     },
     { "id": 4, 
     "title": "Bouquete Panda con dulces", 
     "descrip": "Oso panda, acompañado de dulces",
     "price": "56000",
-    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    "picture": "https://i.imgur.com/c0Nf77e.jpg"
     },
     { "id": 5, 
     "title": "Bouquete Panda con dulces", 
     "descrip": "Oso panda, acompañado de dulces",
     "price": "56000",
-    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    "picture": "https://i.imgur.com/c0Nf77e.jpg"
     },
     { "id": 6, 
     "title": "Bouquete Panda con dulces", 
     "descrip": "Oso panda, acompañado de dulces",
     "price": "56000",
-    "picture": "https://i.imgur.com/NlJTvyh.jpg"
+    "picture": "https://i.imgur.com/c0Nf77e.jpg"
     }
   ],
 
   "desayunos": [
     { "id": 1, 
-    "title": "Nodo de Expansión del Occidente de Buga", 
-    "descrip": "Para volver a ser ciudad, necesitamos proyectos visionarios. Nosotros ya demostramos que podemos hacerlo",
-    "vcode": "D1CW6WPEsMY"
+    "title": "Desayuno sorpresa", 
+    "descrip": "La sorpresa es que no hay desayuno",
+    "price": "500000",
+    "picture": "https://i.imgur.com/b5ms9A8.jpg"
+    },
+    { "id": 2, 
+    "title": "Desayuno sorpresa", 
+    "descrip": "La sorpresa es que no hay desayuno",
+    "price": "500000",
+    "picture": "https://i.imgur.com/b5ms9A8.jpg"
+    },
+    { "id": 3, 
+    "title": "Desayuno sorpresa", 
+    "descrip": "La sorpresa es que no hay desayuno",
+    "price": "500000",
+    "picture": "https://i.imgur.com/b5ms9A8.jpg"
+    },
+    { "id": 4, 
+    "title": "Desayuno sorpresa", 
+    "descrip": "La sorpresa es que no hay desayuno",
+    "price": "500000",
+    "picture": "https://i.imgur.com/b5ms9A8.jpg"
+    },
+    { "id": 5, 
+    "title": "Desayuno sorpresa", 
+    "descrip": "La sorpresa es que no hay desayuno",
+    "price": "500000",
+    "picture": "https://i.imgur.com/b5ms9A8.jpg"
+    },
+    { "id": 6, 
+    "title": "Desayuno sorpresa", 
+    "descrip": "La sorpresa es que no hay desayuno",
+    "price": "500000",
+    "picture": "https://i.imgur.com/b5ms9A8.jpg"
     }
   ]
   
